@@ -69,8 +69,8 @@ namespace Payroll_Application
                 Console.Write("\nSelection: ");
 
                 //string[] resultArray = Array.ConvertAll(emp, x => x.ToString());
-                //System.IO.File.WriteAllLines(@"F:\C#\stevens code\Payroll Application\test.txt", emp);
-                //File.WriteAllLines(@"F:\C#\stevens code\Payroll Application\test.txt", emp.Cast<string>());
+                //System.IO.File.WriteAllLines(@"C:\Users\Smj7v\test.txt", emp);
+                //File.WriteAllLines(@"C:\Users\Smj7v\test.txt", emp.Cast<string>());
                 sEinput = Console.ReadLine();
                 input = Convert.ToInt32(sEinput);
 
@@ -122,8 +122,8 @@ namespace Payroll_Application
         //public void textEmployee()
         //{
         //    string[] resultArray = Array.ConvertAll(emp, x => x.ToString());
-        //    System.IO.File.WriteAllLines(@"F:\C#\stevens code\Payroll Application\test.txt", emp);
-        //    File.WriteAllLines(@"F:\C#\stevens code\Payroll Application\test.txt", emp.Cast<string>());
+        //    System.IO.File.WriteAllLines(@"C:\Users\Smj7v\test.txt", emp);
+        //    File.WriteAllLines(@"C:\Users\Smj7v\test.txt", emp.Cast<string>());
             
         //}
     }
